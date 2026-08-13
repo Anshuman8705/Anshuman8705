@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anshuman-agrawal-65aa69328/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anshumanagrawal89@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Anshuman8705"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -103,7 +103,7 @@ Each project reflects a different stage of that path — from training and evalu
 
 **🩺 [DermAI Monitor](https://github.com/Anshuman8705/Skin_Classification_DermAI)**
 
-An AI-powered skin disease monitoring and progress tracking system using deep learning and computer vision. Built on an EfficientNetB3 backbone with Grad-CAM visualizations and focal loss to handle class imbalance in the HAM10000 dataset. Built during the IEEE EMBS Pune Chapter internship.
+A 7-class skin lesion classifier built during the IEEE EMBS Pune Chapter AI/ML Internship, trained on a merged, deduplicated HAM10000 + ISIC 2019 dataset (~15,600 images). Uses two-phase transfer learning, focal loss, and class weighting, reaching 68.97% test accuracy and 0.9143 macro-averaged ROC-AUC. Adds Grad-CAM explainability and an ABCD dermoscopic scoring rule as an independent cross-check, with a Streamlit app for longitudinal patient history and PDF report generation. Co-authored an accompanying IEEE-format research paper on the methodology and results.
 
 `Python` `TensorFlow` `EfficientNetB3` `Computer Vision` `Grad-CAM` `Focal Loss` `Streamlit` `HAM10000`
 
@@ -127,7 +127,7 @@ A healthcare EDI automation project that parses 835 EDI data, transforms it into
 
 **🤖 [AI Chatbot](YOUR_REPOSITORY_LINK)**
 
-A conversational AI chatbot built using LangChain and the OpenAI API, exploring prompt design and LLM-driven conversation flow.
+A conversational AI chatbot built with the OpenAI API and LangChain during a NxtWave workshop, exploring prompt engineering, chatbot memory, and API integration — an early step into generative AI.
 
 `Python` `LangChain` `OpenAI API` `LLMs` `Prompt Engineering`
 
@@ -138,7 +138,7 @@ A conversational AI chatbot built using LangChain and the OpenAI API, exploring 
 
 **🧠 [AI Flashcard Generator](YOUR_REPOSITORY_LINK)**
 
-An LLM-powered application that generates study flashcards from input material, built during a hackathon to explore practical GenAI use cases.
+Built at the Innova Hackathon — a website that uses the OpenAI API to generate dynamic study flashcards from user input, aimed at making learning more accessible for underprivileged children.
 
 `Python` `OpenAI API` `LLMs` `Prompt Engineering`
 
@@ -162,7 +162,7 @@ A set of applications built while training in ASP.NET MVC with One Smarter Inc.,
 
 **🏠 [Homely Hub](https://github.com/Anshuman8705/Homely-Hub)**
 
-A full-stack property rental platform built during the WebStack Academy MERN Stack internship, with a React frontend and an Express/MongoDB backend, deployed on Vercel and Render.
+A full-stack property rental and management platform built during the Webstack Academy MERN internship, with user authentication, property listing/search with filters, an admin dashboard, and image uploads. Frontend deployed on Vercel, backend on Render.
 
 `React.js` `Node.js` `Express.js` `MongoDB` `REST APIs`
 
@@ -209,8 +209,8 @@ I'm actively working through the generative AI / agentic AI ecosystem — this l
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anshuman-agrawal-65aa69328/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anshumanagrawal89@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Anshuman8705"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
