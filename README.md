@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anshuman-agrawal-65aa69328/">
+  <a href="https://www.linkedin.com/in/anshumanagrawal08072005/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:anshumanagrawal89@gmail.com">
@@ -29,11 +29,22 @@ I'm especially interested in what happens beyond a model's prediction—how to e
 - **Exploring:** retrieval-augmented generation, AI agents, and local LLMs.
 - **Strengthening:** backend development, testing, and reliable user experiences.
 
+## Experience
+
+- **AI/ML Developer Intern — One Smarter, Inc.** · August 2026–present · Remote.
+- **AI/ML Intern — IEEE EMBS Pune Chapter** · 1–30 June 2026. Co-developed DermAI Monitor with Tanushri Khawale: model development, evaluation and application implementation.
+- **MERN Stack Development Intern — Webstack Academy** · 3 September–20 November 2025. Built Homely Hub through an SDLC-based internship.
+- **Mentor — Digital Fablab SSGMCE** · January 2026–present. Java, Figma and AI/ML mentoring.
+- **Chairperson — Robotics and Automation Society, SSGMCE** · July 2026–present.
+
+- **Member — IEEE, SSGMCE Student Branch** · August 2025–July 2026.
+- **Member — Digital Fablab SSGMCE** · March 2025–January 2026.
+
 ## Selected projects
 
 ### 🩺 [DermAI Monitor](https://github.com/Anshuman8705/Skin_Classification_DermAI)
 
-A seven-class skin lesion classification project developed during the **IEEE EMBS Pune Chapter AI/ML Internship**.
+Co-developed with **Tanushri Khawale**, this seven-class skin lesion classification project was developed during the **IEEE EMBS Pune Chapter AI/ML Internship**.
 
 - Trained an **EfficientNetB3** model on a merged, deduplicated HAM10000 and ISIC 2019 dataset of approximately **15,600 images**, using two-phase transfer learning, focal loss, and class weighting.
 - Achieved **68.97% test accuracy** and **0.9143 macro-averaged ROC-AUC** in the project's evaluation.
@@ -64,6 +75,12 @@ A responsive demo storefront with a React frontend, Express API, and SQLite data
 - Improved mobile layouts, checkout accessibility, and cart restoration, with automated frontend and API tests.
 
 `React` · `Vite` · `Tailwind CSS` · `Express` · `SQLite` · `Vitest`
+
+### [Expense & Budget Management](https://github.com/Anshuman8705/.NET-Final-Project)
+
+Co-developed with Rahul Paghrut. An ASP.NET Core MVC application with account-scoped income and expense tracking, monthly budgets, SQLite storage and dashboard reports.
+
+`C#` · `ASP.NET Core MVC` · `EF Core` · `SQLite` · `Chart.js`
 
 ### 🖥️ [ASP.NET MVC Projects](https://github.com/Anshuman8705/Dot-Net-Training)
 
@@ -96,3 +113,29 @@ A website built at the **Innova Hackathon** that generates study flashcards from
 `Python` · `OpenAI API` · `Prompt Engineering`
 
 </details>
+
+## Hardware and CAD projects
+
+- **Excavator Arm — Fusion 360:** 3D modelling, assembly and motion simulation for Digital Fablab.
+- **IoT Ultrasonic Distance Monitor:** HC-SR04 and ESP8266 web server displaying live distance readings on a phone.
+- **Raspberry Pi IR Presence Detector:** infrared sensing and LED feedback at the IEEE I3PLI workshop.
+
+## Certificates and training
+
+| Credential | Issuer | Date / period | Record |
+| --- | --- | --- | --- |
+| Advanced DotNet and SQL Server Developer Course | CertifyEra | 25 October 2026 | CERA102026000127 · [View](https://www.linkedin.com/feed/update/urn:li:activity:7521552020923629568/) |
+| Data Base Management System | NPTEL | 2026 · course session July–September | NPTEL26CS117S368000002 · [View](https://www.linkedin.com/feed/update/urn:li:activity:7521123673932673026/) |
+| CS50’s Introduction to Programming with Python | CS50 | 2026 | [View](https://cs50.harvard.edu/certificates/dda7d5fe-37ad-4894-a37c-62e425103aad) |
+| Skin Classification Using Deep Learning | IEEE EMBS Pune Chapter / IEEE Pune Section | 1–30 June 2026 | [View](https://portfolio-kohl-theta-24.vercel.app/certificates/ieee-internship/) |
+| Full Stack Web Development in MERN | Webstack Academy | 3 Sep–20 Nov 2025 | WMSI25_004 · [View](https://portfolio-kohl-theta-24.vercel.app/certificates/webstack-internship/) |
+| AWS Academy Graduate – Cloud Foundations | AWS Academy | 2026 | [View](https://www.credly.com/go/8Xh3i5zP) |
+| Getting Started with Linux Fundamentals | Red Hat | 2 April 2026 | [View](https://www.credly.com/badges/ad2b046a-6122-4405-9d9b-558c78b3906a) |
+| Artificial Intelligence & Machine Learning | iBase Electrosoft LLP / SSGMCE | 26 Feb–7 Mar 2026 | [View](https://portfolio-kohl-theta-24.vercel.app/certificates/ai-ml-training/) |
+| Prototype to Product: ESP32 & Raspberry Pi | SSGMCE · Pursuit 2026 | 25–28 March 2026 | [View](https://portfolio-kohl-theta-24.vercel.app/certificates/prototype-workshop/) |
+| AI for Students: Build Your Own Generative AI Model | NxtWave | 23 February 2025 | [View](https://portfolio-kohl-theta-24.vercel.app/certificates/nxtwave-genai/) |
+| TCS Tech Day 2026 | Tata Consultancy Services · Academic Alliances Group | 2026 | [View](https://portfolio-kohl-theta-24.vercel.app/certificates/tcs-appreciation/) |
+
+## Connect
+
+[Portfolio](https://portfolio-kohl-theta-24.vercel.app) · [LinkedIn](https://www.linkedin.com/in/anshumanagrawal08072005/) · [Email](mailto:anshumanagrawal89@gmail.com)
